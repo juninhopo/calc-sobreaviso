@@ -6,7 +6,7 @@
 - Horas de Trabalho
 - Horas de Trabalho em sobreaviso
 
-![image](img/variables.png)
+<img src="/img/variables.png" width=70% height=70% >
 
 Apos isso execute o programa e veja o resultado.
 
