@@ -1,6 +1,6 @@
 //Calculadora da base do sobreaviso de empresas.
 
-let salario = 4200
+let salario = 3000
 let horTrab = 172
 let horTrabSobre = 180
 
