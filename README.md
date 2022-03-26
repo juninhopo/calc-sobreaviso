@@ -9,4 +9,3 @@
 Apos isso execute o programa e veja o resultado.
 
 ![image](img/exemplo.png)
-
